@@ -1,0 +1,33 @@
+.w3-light-grey {
+    width: 50vw;
+    display: flex;
+    margin-left: 25vw;
+}
+
+.space {
+    display: flex;
+    padding-left: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.money {
+    margin-left: 50vw;
+}
+
+.bank {
+    margin-top: 25vw;
+    text-align: center;
+}
+
+.back {
+    font-size: 300%;
+    padding-top: 5vw;
+    padding-left: 5vw;
+}
+
+.arrow :hover {
+    color: darkblue;
+}
