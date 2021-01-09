@@ -31,3 +31,29 @@ h1 {
 .arrow :hover {
     color: darkblue;
 }
+
+body {
+    line-height: 0px;
+}
+
+.progress {
+    display: flex;
+    width: 100%;
+    background: white;
+    height: 25px;
+    align-items: stretch;
+    margin-top: 25px;
+
+}
+
+.bar {
+    background-color: #333333;
+
+}
+
+.all {
+    margin: 0px auto;
+    margin-top: 25px;
+    font-family: Impact, serif;
+    color: #333333;
+}

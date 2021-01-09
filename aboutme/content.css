@@ -1,0 +1,38 @@
+.content {
+    margin-left: 200px;
+    /*margin-top: 20vw;*/
+}
+
+h1 {
+    margin: 0;
+    color: #333333;
+    font-family: Impact, serif;
+    font-size: 50px;
+    width: 150%;
+}
+
+.small-info {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+.fa-dollar-sign {
+    color: black;
+    font-size: 50px;
+    margin-left: 55vw;
+    margin-right: 25px;
+    margin-top: 25px;
+    position: absolute;
+    top: 10px;
+    right: 15px;
+
+}
+
+.donate :hover {
+    color: #336c4c;
+}
+
+body {
+    margin: 0;
+}
